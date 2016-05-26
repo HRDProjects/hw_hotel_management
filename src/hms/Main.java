@@ -6,7 +6,9 @@ public class Main {
 	public static void main(String[] args) {
 		welcome();
 	}
-	
+	/*
+	 * Welcome
+	 * */
 	public static void welcome(){
 		System.out.println("-------------------- Welcome to Holtel Management System --------------------");
 		System.out.println("1. Input number of floor and room");
